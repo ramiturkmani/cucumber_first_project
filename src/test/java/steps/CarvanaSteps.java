@@ -17,8 +17,6 @@ import utils.Driver;
 import utils.DropdownHandler;
 import utils.Waiter;
 
-import javax.rmi.CORBA.Util;
-
 public class CarvanaSteps {
     WebDriver driver;
     CarvanaHomePage carvanaHomePage;
